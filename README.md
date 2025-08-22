@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Medium image -->
-<img src="image.png" width="500">
+<img src="Screenshot 2025-08-23 000451.png" width="500">
 
 [![GitHub stars](https://img.shields.io/github/stars/rithaa24/solar-forecasting?style=for-the-badge)](https://github.com/rithaa24/solar-forecasting/stargazers)
 
