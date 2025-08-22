@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Placeholder Logo](TODO: Add project logo)
+<!-- Medium image -->
+<img src="image.png" width="500">
 
 [![GitHub stars](https://img.shields.io/github/stars/rithaa24/solar-forecasting?style=for-the-badge)](https://github.com/rithaa24/solar-forecasting/stargazers)
 
@@ -97,7 +98,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-TODO: Add License Information
+All rights reserved. No license is granted for the use, modification, or distribution of this code.
+
 
 
 ---
